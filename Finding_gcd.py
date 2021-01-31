@@ -5,7 +5,6 @@
 # the input will be given in the format gcd(m,n)
 
 
-
 def gcd(m,n):
     fn = []  #array for storing factors of m
     cf = [] #array for storing the gcd        
